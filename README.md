@@ -18,3 +18,6 @@ Dataset useda
 - Made sure that data is consistent and clean with respect to data type, data format and values used.
 - Created different types of charts according to the questions asked.
 - Easy Dashboard to go with Predictive Analytics.
+Dashboard
+![Screenshot](https://github.com/user-attachments/assets/40ce58bb-d580-42f3-bdc5-6404b01c9233)
+
