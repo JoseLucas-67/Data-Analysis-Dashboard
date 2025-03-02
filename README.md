@@ -1,2 +1,3 @@
-# Data-Analysis-Dashboard
-I developed a comprehensive project in Power BI, creating multiple dashboards and tables to analyze the data. This process involves several stages Data Processing, Data cleaning and Data Visualization
+#IPL Data Analysis and Extract Insights using Interactive Dashboard
+##Project Objective
+To analyze IPL 2024 data using Power BI to uncover team performance, player insights, match trends, and predictive analytics for data-driven decision-making.
